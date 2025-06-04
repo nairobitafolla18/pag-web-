@@ -1,0 +1,55 @@
+.contenedor{
+        width: 1000px; /* ancho de la pagina*/
+        margin: 0 auto; /* centra el contenedor*/
+        background-color: #555; /* color de fondo*/
+}
+.encabezado{
+        width: 100%; /* ancho del div*/
+        height: 200px; /* alto del div*/
+        background-color: #aaf; /* color de fondo*/
+}
+h1{
+        font-size: 50px;
+        color: #f60;
+        font-style: italic
+        font-weight: blod;
+        margin-top: 60px;
+        text-shadow: #5a5 5px 5px;
+}
+.logo{
+        width: 25%;
+        text-align: center;
+        margin-top: 10px;
+        float: left;
+}
+.redondear{
+        border-radius: 20px;
+}
+
+.titular{
+        width: 75%;
+        text-align: center;
+        float: left
+}
+
+.navegacion{
+        width: 100%;
+        height: 90px;
+        background-color: #afa;
+}
+.barra{
+        width: 25%;
+        height: 600px;
+        background-color: #aaa;
+        float: left;
+}
+.principal{
+        width: 75%;
+        height: 600px;
+        background-color: #fff;
+float: left;
+}
+
+
+
+
